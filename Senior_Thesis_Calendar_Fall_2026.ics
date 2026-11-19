@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Senior Thesis//Fall 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Senior Thesis Calendar Fall 2026
+BEGIN:VEVENT
+UID:80134c57-883c-512f-90d0-5e668a24fe8d@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261106T170000
+DTEND;TZID=America/New_York:20261106T190000
+SUMMARY:Kaia Norment: Senior Thesis Reception
+LOCATION:Dr. Margaret E. Bacon Student Gallery\, 1300 Elmwood Ave\, Buffalo
+ \, NY 14222
+DESCRIPTION:Exhibition dates: November 02\, 2026–November 06\, 2026\nVenu
+ e: Dr. Margaret E. Bacon Student Gallery\nAddress: 1300 Elmwood Ave\, Buffa
+ lo\, NY 14222
+END:VEVENT
+BEGIN:VEVENT
+UID:2bc29583-274e-5693-9a5f-3b5f01d4fe09@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261122T180000
+DTEND;TZID=America/New_York:20261122T210000
+SUMMARY:Kathryn Czekanski: Senior Thesis Reception
+LOCATION:Allen Street Hardware\, 245 Allen St\, Buffalo\, NY 14201
+DESCRIPTION:Exhibition dates: November 22\, 2026–November 22\, 2026\nVenu
+ e: Allen Street Hardware\nAddress: 245 Allen St\, Buffalo\, NY 14201
+END:VEVENT
+BEGIN:VEVENT
+UID:c553225b-74af-5244-a788-086518a1898e@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261127T160000
+DTEND;TZID=America/New_York:20261127T180000
+SUMMARY:Lailah Avis: Senior Thesis Reception
+LOCATION:Picture Your Walls\, 184 Buffalo St\, Hamburg\, NY 14075
+DESCRIPTION:Exhibition dates: November 27\, 2026–November 28\, 2026\nVenu
+ e: Picture Your Walls\nAddress: 184 Buffalo St\, Hamburg\, NY 14075
+END:VEVENT
+BEGIN:VEVENT
+UID:1b43e84c-9e8b-5fd5-b6e4-f295d7939bd2@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261130T173000
+DTEND;TZID=America/New_York:20261130T193000
+SUMMARY:Annalise Borrelli: Senior Thesis Reception
+LOCATION:Crane Branch Library\, 633 Elmwood Ave\, Buffalo\, NY 14222
+DESCRIPTION:Exhibition dates: November 30\, 2026–November 30\, 2026\nVenu
+ e: Crane Branch Library\nAddress: 633 Elmwood Ave\, Buffalo\, NY 14222
+END:VEVENT
+BEGIN:VEVENT
+UID:8b17dd0e-e160-5422-94b6-c3972edaed30@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261201T170000
+DTEND;TZID=America/New_York:20261201T200000
+SUMMARY:Cheyenne Johns: Senior Thesis Reception
+LOCATION:Revolution Gallery\, 1419 Hertel Avenue\, Buffalo NY 14216
+DESCRIPTION:Exhibition dates: December 01\, 2026–December 03\, 2026\nVenu
+ e: Revolution Gallery\nAddress: 1419 Hertel Avenue\, Buffalo NY 14216
+END:VEVENT
+BEGIN:VEVENT
+UID:f060ea84-f95e-5925-b50b-262af0029505@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261202T180000
+DTEND;TZID=America/New_York:20261202T200000
+SUMMARY:Zoey Brown: Senior Thesis Reception
+LOCATION:Buffalo Creative Workshop\, 255 Great Arrow Ave\, Suite 205\, Buff
+ alo\, NY 14207
+DESCRIPTION:Exhibition dates: December 02\, 2026–December 02\, 2026\nVenu
+ e: Buffalo Creative Workshop\nAddress: 255 Great Arrow Ave\, Suite 205\, Bu
+ ffalo\, NY 14207
+END:VEVENT
+BEGIN:VEVENT
+UID:eb1ff9e2-df69-5b4a-86ed-5b55d0bc4d9c@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261203T180000
+DTEND;TZID=America/New_York:20261203T200000
+SUMMARY:Erin Prior: Senior Thesis Reception
+LOCATION:Dr. Margaret E. Bacon Student Gallery\, 1300 Elmwood Ave\, Buffalo
+ \, NY 14222
+DESCRIPTION:Exhibition dates: November 30\, 2026–December 04\, 2026\nVenu
+ e: Dr. Margaret E. Bacon Student Gallery\nAddress: 1300 Elmwood Ave\, Buffa
+ lo\, NY 14222
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a11355-b224-5fb1-969a-7b9fc03cd304@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261204T183000
+DTEND;TZID=America/New_York:20261204T200000
+SUMMARY:Taylor Evans: Senior Thesis Reception
+LOCATION:Parables Gallery and Gifts\, 1027 Elmwood Ave\, Buffalo\, NY
+DESCRIPTION:Exhibition dates: December 02\, 2026–December 31\, 2026\nVenu
+ e: Parables Gallery and Gifts\nAddress: 1027 Elmwood Ave\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:f6e9b080-7f66-59e7-a437-ce1f4640dfa8@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261204T190000
+DTEND;TZID=America/New_York:20261205T040000
+SUMMARY:Aiden Moberly: Senior Thesis Reception
+LOCATION:Essex Street Pub\, 530 Rhode Island\, Buffalo\, NY 14213
+DESCRIPTION:Exhibition dates: December 04\, 2026–December 04\, 2026\nVenu
+ e: Essex Street Pub\nAddress: 530 Rhode Island\, Buffalo\, NY 14213
+END:VEVENT
+BEGIN:VEVENT
+UID:608d5f5d-64d8-5bf8-a359-e2793d7aa68e@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261206T150000
+DTEND;TZID=America/New_York:20261206T180000
+SUMMARY:Bernard Smith: Senior Thesis Reception
+LOCATION:Dr. Margaret E. Bacon Student Gallery\, 1300 Elmwood Ave\, Buffalo
+ \, NY 14222
+DESCRIPTION:Exhibition dates: December 06\, 2026–December 12\, 2026\nVenu
+ e: Dr. Margaret E. Bacon Student Gallery\nAddress: 1300 Elmwood Ave\, Buffa
+ lo\, NY 14222
+END:VEVENT
+BEGIN:VEVENT
+UID:def1a282-d6e7-51d8-9e22-418df3c1237c@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261209T120000
+DTEND;TZID=America/New_York:20261209T160000
+SUMMARY:Noah Archibald: Senior Thesis Reception
+LOCATION:Rust Belt Books\, 415 Grant St\, Buffalo\, NY 14201
+DESCRIPTION:Exhibition dates: December 09\, 2026–December 09\, 2026\nVenu
+ e: Rust Belt Books\nAddress: 415 Grant St\, Buffalo\, NY 14201
+END:VEVENT
+BEGIN:VEVENT
+UID:770a8c5e-a15d-5523-a3f9-7b0580f84c4d@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261209T180000
+DTEND;TZID=America/New_York:20261209T200000
+SUMMARY:Ethan Wolf: Senior Thesis Reception
+LOCATION:Honorable Shirley Chisolm (Audubon) Library\, Community Room 2\, 3
+ 50 John James Audubon Pkwy\, Amherst\, NY 14228
+DESCRIPTION:Exhibition dates: December 09\, 2026–December 09\, 2026\nVenu
+ e: Honorable Shirley Chisolm (Audubon) Library\, Community Room 2\nAddress:
+  350 John James Audubon Pkwy\, Amherst\, NY 14228
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd7a8c6-4b87-506a-b7ff-750deb1ce412@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261211T110000
+DTEND;TZID=America/New_York:20261211T130000
+SUMMARY:Ariel Joyce: Senior Thesis Reception
+LOCATION:Niagara Arts and Culture Center (NACC)\, Niche Gallery\, 1201 Pine
+  Ave\, Niagara Falls\, NY 14301
+DESCRIPTION:Exhibition dates: December 11\, 2026–January 09\, 2027\nVenue
+ : Niagara Arts and Culture Center (NACC)\, Niche Gallery\nAddress: 1201 Pin
+ e Ave\, Niagara Falls\, NY 14301
+END:VEVENT
+BEGIN:VEVENT
+UID:a1c85b92-265e-52a0-9d74-bc68db241df2@seniorthesis.example
+DTSTAMP:20261119T230000Z
+DTSTART;TZID=America/New_York:20261212T170000
+DTEND;TZID=America/New_York:20261212T190000
+SUMMARY:Eric Endres: Senior Thesis Reception
+LOCATION:Ben Garelick Jewelry Store\, 5001 Transit Rd\, Buffalo\, NY 14221
+DESCRIPTION:Exhibition dates: December 12\, 2026–December 17\, 2026\nVenu
+ e: Ben Garelick Jewelry Store\nAddress: 5001 Transit Rd\, Buffalo\, NY 1422
+ 1
+END:VEVENT
+END:VCALENDAR
